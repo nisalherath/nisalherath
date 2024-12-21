@@ -1,3 +1,3 @@
-## My Portfolio
+## Merry Christmas!
 
-View my full portfolio: [My Portfolio](./index.html)
+[My Portfolio](./index.html)
