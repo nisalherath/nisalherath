@@ -1,7 +1,4 @@
-## My Christmas Card 🎄
 
-You can view my dynamic Christmas card here:  
-[Click to view the Christmas Card](https://merryxmas-bxt8euztc-nisals-projects-db57c7e9.vercel.app)
 
 # Email 📧 
 ## nisal@nisal.lk
