@@ -1,4 +1,5 @@
-# Email 📧
+# Email 📧<img src="https://media.giphy.com/media/26FPG3cXp8i94k2py/giphy.gif" width="400">
+
 ## nisal@nisal.lk
 
 # Socials 📬
