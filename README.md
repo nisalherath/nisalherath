@@ -1,7 +1,7 @@
 # Email 📧 
 ## nisal@nisal.lk
 
-### Spotify Playing 🎧
+# Spotify 💚
 [<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/vmcrsyrf4yw18593607h7i728)
 
 
