@@ -1,7 +1,8 @@
 # Email 📧 
 ## nisal@nisal.lk
 
-<img src="https://merryxmas-dz8ldiffe-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="440" height="340"/>
+[<img src="https://merryxmas-dz8ldiffe-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="440" height="340" />](https://nisal.lk/)
+
 # Listening on Spotify 💚
 [<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/vmcrsyrf4yw18593607h7i728)
 
