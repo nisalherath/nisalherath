@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
+  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
+    <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
+  </a>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
