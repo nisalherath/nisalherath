@@ -4,13 +4,13 @@
 <h1 align="center">🤝 We all live here 🌏</h1>
 
 <div align="center">
-  <img src="https://github-card-7cmnrvqy9-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="500" height="400" />
+  <img src="https://github-card-7cmnrvqy9-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="500" height="300" />
 </div>
 
 <h1 align="center">🤝 We all live here 🌏</h1>
 
 <div align="center">
-  <img src="https://githubcard2-e3arhxm2j-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="600" height="300" />
+  <img src="https://githubcard2-e3arhxm2j-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="650" height="350" />
 </div>
 
 
