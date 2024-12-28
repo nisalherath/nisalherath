@@ -53,7 +53,7 @@
 
 
 # Stats 💪🏻
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; flex-wrap: wrap;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=swift&hide_border=false" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
 
