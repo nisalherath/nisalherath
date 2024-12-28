@@ -6,11 +6,7 @@
 
 <div align="center">
   <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
-</div>
-
-<h1 align="center">On Socials</h1>
-
-<p align="center">
+  <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
   </a>
@@ -33,6 +29,10 @@
     <img src="https://cdpen.vercel.app/api/codepen" alt="CodePen" width="96" height="31" />
   </a>
 </p>
+</div>
+
+
+
 
 
 
