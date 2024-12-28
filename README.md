@@ -1,4 +1,4 @@
-<img src="https://merryxmas-ptlh8r203-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="100%" height="800" />
+<img src="https://merryxmas-ptlh8r203-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="400" height="300" />
 # Email 📧 
 ## nisal@nisal.lk
 
