@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://githubcard2-p0s0pqeio-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="500" height="350"/>
+  <img src="https://githubcard2-p0s0pqeio-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="700" height="300"/>
 </div>
 
 
