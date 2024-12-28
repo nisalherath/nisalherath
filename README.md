@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
+</div>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,7 +36,6 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
   </a>
 </p>
-</div>
 
 
 
