@@ -9,29 +9,16 @@
 </div>
 
 <h1 align="center">On Socials</h1>
-<div align="center">
-  <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
-  </a>
-  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio" width="96" height="31" />
-  </a>
-  <a href="https://discord.com/users/790576125678977065" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31"/>
-  </a>
-  <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://fb-iota-steel.vercel.app/api/facebook" alt="Facebook" width="96" height="31"/>
-  </a>
-  <a href="https://instagram.com/mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://insta-nu-two.vercel.app/api/insta" alt="Instagram" width="96" height="31"/>
-  </a>
-  <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31"/>
-  </a>
-  <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdpen.vercel.app/api/codepen" alt="Codepen" width="96" height="31"/>
-  </a>
-</div>
+<p align="center">
+  [![LinkedIn](https://linkedin-drab-mu.vercel.app/api/linkedin)](https://linkedin.com/in/nisal-herath)
+  [![Portfolio](https://nisallk.vercel.app/api/nisallk)](https://nisal.lk)
+  [![Discord](https://discord-tau-peach.vercel.app/api/discord)](https://discord.com/users/790576125678977065)
+  [![Facebook](https://fb-iota-steel.vercel.app/api/facebook)](https://facebook.com/mooncaque)
+  [![Instagram](https://insta-nu-two.vercel.app/api/insta)](https://instagram.com/mooncaque)
+  [![X](https://twitter-ecru-seven.vercel.app/api/twitter)](https://x.com/artnisal)
+  [![CodePen](https://cdpen.vercel.app/api/codepen)](https://codepen.io/Mooncaque)
+</p>
+
 
 
 
