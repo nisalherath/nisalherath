@@ -1,9 +1,10 @@
 # Email 📧 
 ## nisal@nisal.lk
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; flex-wrap: wrap;">
-<img src="https://merryxmas-69k29con6-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="330" height="280" />
-</div>
+<center>
+  <img src="https://merryxmas-69k29con6-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="330" height="280" />
+</center>
+
 
 
 # 🤝 Connect With Me 🌐  
