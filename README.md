@@ -1,7 +1,8 @@
 # Email 📧 
 ## nisal@nisal.lk
 
-<center> # 🤝 We all live here 🌏 </center>
+<h1 align="center">🤝 We all live here 🌏</h1>
+
 <div align="center">
   <img src="https://github-card-7cmnrvqy9-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="500" height="400" />
 </div>
