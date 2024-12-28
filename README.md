@@ -33,7 +33,7 @@
     <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31"/>
   </a>
   <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
+    <img src="https://cdpen.vercel.app/api/codepen" alt="Codepen" width="96" height="31"/>
   </a>
 </p>
 
