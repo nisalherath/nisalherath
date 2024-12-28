@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; flex-wrap: wrap;">
-<img src="https://merryxmas-dz8ldiffe-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="440" height="340" />
+<img src="https://merryxmas-69k29con6-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="440" height="340" />
 </div>
 
 # Listening on Spotify 💚
