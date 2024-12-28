@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">On Socials</h1>
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
   </a>
@@ -31,7 +31,7 @@
   <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdpen.vercel.app/api/codepen" alt="Codepen" width="96" height="31"/>
   </a>
-</p>
+</div>
 
 
 
