@@ -1,7 +1,7 @@
 <h1 align="center">🤝 We all live here 🌏</h1>
 
 <div align="center">
-  <img src="https://github-card-orpin.vercel.app/api/githubCard" width="600" height="300" />
+  <img src="https://github-card-orpin.vercel.app/api/githubCard" width="450" height="300" />
 </div>
 
 <h1 align="center">Happy Holidays 🎁</h1>
