@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/mooncaque" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://insta-nu-two.vercel.app/api/insta" alt="Instagram" width="96" height="31"/>
   </a>
   <a href="https://twitch.tv/cakedmoon" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"/>
