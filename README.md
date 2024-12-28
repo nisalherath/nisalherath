@@ -6,8 +6,9 @@
 
 <h1 align="center">🎄🎄🎄 Happy Holidays 🎄🎄🎄</h1>
 <div align="center">
-  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="280"/>
+  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="280" style="border-radius: 15px;"/>
 </div>
+
 
 
 # 🤝 Connect With Me 🌐  
