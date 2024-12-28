@@ -9,7 +9,7 @@
 
 <h1 align="center">🎄🎄🎄 Happy Holidays 🎄🎄🎄</h1>
 <div align="center">
-  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="300" height="300"/>
+  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="280"/>
 </div>
 
 
