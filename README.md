@@ -6,7 +6,7 @@
 
 <h1 align="center">Happy Holidays 🎁</h1>
 <div align="center">
-  <img src="https://browser-card.vercel.app/api/browserCard" width="456" height="306" style="border-radius: 15px;"/>
+  <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
 </div>
 
 
