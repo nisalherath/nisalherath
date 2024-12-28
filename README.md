@@ -39,6 +39,7 @@
   </a>
 </p>
 </div>
+
 ---
 
 
@@ -54,7 +55,7 @@
 
 
 
-
+---
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
@@ -90,6 +91,8 @@
 <br>
 <br>
 
+---
+
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://browser-tool-ruby.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
@@ -98,15 +101,22 @@
 <br>
 <br>
 
+<div align="center">
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+---
 
 <br>
 <br>
 <br>
 <br>
+
+---
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
@@ -116,16 +126,23 @@
 <br>
 <br>
 
+<div align="center">
+  
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+</div>
+
+---
 
 <br>
 <br>
 <br>
 <br>
+
+---
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
@@ -135,6 +152,8 @@
 <br>
 <br>
 
+<div align="center">
+  
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
@@ -146,6 +165,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+</div>
+
+---
+
 
 <br>
 <br>
