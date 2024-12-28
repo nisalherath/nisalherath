@@ -53,7 +53,7 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-  # Stats 💪🏻
+<h1 align="center">  # Stats 💪🏻</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=swift&hide_border=false" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
