@@ -6,42 +6,38 @@
 
 <div align="center">
   <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
-</div>
-
-
-
-
-
-# 🤝 Connect With Me 🌐  
-<p align="center">
-  <a href="https://linkedin.com/in/nisal-herath">
+  <p align="center">
+  <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://nisal.lk">
+  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://behance.net/nisalherath">
+  <a href="https://behance.net/nisalherath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
   </a>
-  <a href="https://discord.gg/https://discord.com/users/790576125678977065">
+  <a href="https://discord.com/users/790576125678977065" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://facebook.com/mooncaque">
+  <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/mooncaque">
+  <a href="https://instagram.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitch.tv/cakedmoon">
+  <a href="https://twitch.tv/cakedmoon" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="https://x.com/artnisal">
+  <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://codepen.io/Mooncaque">
+  <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
   </a>
 </p>
+</div>
+
+
 
 
 
