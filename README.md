@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">On Socials</h1>
-<p align="center">
+
   [![LinkedIn](https://linkedin-drab-mu.vercel.app/api/linkedin)](https://linkedin.com/in/nisal-herath)
   [![Portfolio](https://nisallk.vercel.app/api/nisallk)](https://nisal.lk)
   [![Discord](https://discord-tau-peach.vercel.app/api/discord)](https://discord.com/users/790576125678977065)
@@ -17,7 +17,7 @@
   [![Instagram](https://insta-nu-two.vercel.app/api/insta)](https://instagram.com/mooncaque)
   [![X](https://twitter-ecru-seven.vercel.app/api/twitter)](https://x.com/artnisal)
   [![CodePen](https://cdpen.vercel.app/api/codepen)](https://codepen.io/Mooncaque)
-</p>
+
 
 
 
