@@ -1,7 +1,7 @@
-<img src="https://merryxmas-ptlh8r203-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="400" height="300" />
 # Email 📧 
 ## nisal@nisal.lk
 
+<img src="https://merryxmas-ptlh8r203-nisals-projects-db57c7e9.vercel.app/api/christmasCard" width="400" height="300" />
 # Listening on Spotify 💚
 [<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/vmcrsyrf4yw18593607h7i728)
 
