@@ -57,7 +57,5 @@
 </div>
 
 # Visits 🚀
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=nisalherath&icon=8&color=6)](https://visitcount.itsvg.in)
-</div>
 
