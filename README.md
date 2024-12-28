@@ -1,4 +1,4 @@
-<img src="https://merryxmas-qagns99qb-nisals-projects-db57c7e9.vercel.app" alt="Spotify Playing" width="350" />
+<img src="https://merryxmas-qagns99qb-nisals-projects-db57c7e9.vercel.app/api/christmasCard" alt="Spotify Playing" width="350" />
 # Email 📧 
 ## nisal@nisal.lk
 
