@@ -7,8 +7,9 @@
   <img src="https://github-card-7cmnrvqy9-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="500" height="300" />
 </div>
 
+<h1 align="center">🎄🎄🎄 Happy Holidays 🎄🎄🎄</h1>
 <div align="center">
-  <img src="https://githubcard2-p0s0pqeio-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="650" height="400"/>
+  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="300" height="300"/>
 </div>
 
 
