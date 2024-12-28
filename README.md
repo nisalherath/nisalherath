@@ -1,6 +1,4 @@
-<img src="https://merryxmas-3raf22480-nisals-projects-db57c7e9.vercel.app/" width="300" height="300" />
-
-
+<img src="[https://novatorem.luc1412.vercel.app/api/spotify](https://merryxmas-qagns99qb-nisals-projects-db57c7e9.vercel.app/)" alt="Spotify Playing" width="350" />
 # Email 📧 
 ## nisal@nisal.lk
 
