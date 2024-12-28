@@ -9,7 +9,7 @@
 </div>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
   </a>
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio" width="96" height="31" />
