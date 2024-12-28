@@ -7,6 +7,8 @@
 <div align="center">
   <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;"/>
 </div>
+
+<h1 align="center">On Socials</h1>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
