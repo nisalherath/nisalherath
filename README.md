@@ -1,6 +1,3 @@
-# Email 📧 
-## nisal@nisal.lk
-
 <h1 align="center">🤝 We all live here 🌏</h1>
 
 <div align="center">
@@ -65,4 +62,8 @@
 
 # Visits 🚀
 [![](https://visitcount.itsvg.in/api?id=nisalherath&icon=8&color=6)](https://visitcount.itsvg.in)
+
+# Email 📧 
+## nisal@nisal.lk
+
 
