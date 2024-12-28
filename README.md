@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio"/>
   </a>
   <a href="https://behance.net/nisalherath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
