@@ -3,11 +3,18 @@
 <div align="center">
   <img src="https://github-card-orpin.vercel.app/api/githubCard" width="450" height="300" />
 </div>
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
+<br>
+<br>
+<br>
+<br>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
@@ -62,11 +69,21 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
+<br>
+<br>
+<br>
+<br>
+
 # Tools and Package Managers 🛠️
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+<br>
+<br>
+<br>
 
 # Databases 🗄️
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
@@ -74,6 +91,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
+<br>
+<br>
+<br>
+<br>
 
 # Design and Creative Tools 🎨
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
@@ -88,6 +110,11 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="center"> Stats 💪🏻</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=swift&hide_border=false" alt="GitHub Streak Stats" style="margin: 10px;"/>
@@ -95,6 +122,11 @@
 
 # Visits 🚀
 [![](https://visitcount.itsvg.in/api?id=nisalherath&icon=8&color=6)](https://visitcount.itsvg.in)
+
+<br>
+<br>
+<br>
+<br>
 
 # Email 📧 
 ## nisal@nisal.lk
