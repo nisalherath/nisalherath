@@ -1,5 +1,16 @@
 <hr>
 <div align="center">
+  <h1>Happy Holidays</h1>
+</div>
+
+<div align="center">
+  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="280" />
+</div>
+
+
+
+<hr>
+<div align="center">
   <h1>Hello 👋</h1>
 </div>
 
