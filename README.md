@@ -2,7 +2,7 @@
 ## nisal@nisal.lk
 
 <div align="center">
-  <img src="https://github-card-f7x9qbg1u-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="100%" height="600" />
+  <img src="https://github-card-f7x9qbg1u-nisals-projects-db57c7e9.vercel.app/api/githubCard" width="100%" height="auto" />
 </div>
 
 
