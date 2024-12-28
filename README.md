@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-    <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio"/>
+    <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio" width="96" height="31" />
   </a>
   <a href="https://behance.net/nisalherath" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="https://discord.com/users/790576125678977065" target="_blank" rel="noopener noreferrer">
-    <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord"/>
+    <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31"/>
   </a>
   <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"/>
   </a>
   <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer">
-    <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X"/>
+    <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31"/>
   </a>
   <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
