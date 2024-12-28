@@ -99,7 +99,14 @@
 <br>
 <br>
 
-# Databases 🗄️
+<div align="center">
+  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
+    <img src="https://browser-db.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
+  </a>
+</div>
+<br>
+<br>
+
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
