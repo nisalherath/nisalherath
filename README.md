@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="https://discord.com/users/790576125678977065" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord"/>
   </a>
   <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
