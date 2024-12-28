@@ -10,7 +10,7 @@
 <h1 align="center">🤝 We all live here 🌏</h1>
 
 <div align="center">
-  <img src="https://githubcard2-p0s0pqeio-nisals-projects-db57c7e9.vercel.app/api/githubCard2" />
+  <img src="https://githubcard2-p0s0pqeio-nisals-projects-db57c7e9.vercel.app/api/githubCard2" width="650" height="350"/>
 </div>
 
 
