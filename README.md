@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"/>
   </a>
   <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+    <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X"/>
   </a>
   <a href="https://codepen.io/Mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
