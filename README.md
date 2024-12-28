@@ -181,13 +181,14 @@
 <br>
 <br>
 
+---
+
 <h1 align="center"> Stats 💪🏻</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=swift&hide_border=false" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
 
-# Visits 🚀
-[![](https://visitcount.itsvg.in/api?id=nisalherath&icon=8&color=6)](https://visitcount.itsvg.in)
+---
 
 <br>
 <br>
