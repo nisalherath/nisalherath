@@ -1,12 +1,22 @@
+---
+
 <h1 align="center">Hello 👋</h1>
+
+---
 
 <div align="center">
   <img src="https://github-card-orpin.vercel.app/api/githubCard" width="450" height="300" />
 </div>
+
+---
+
 <br>
 <br>
 <br>
 <br>
+
+---
+
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://browser-card.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
