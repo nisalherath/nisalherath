@@ -139,7 +139,7 @@
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-    <img src="https://ribbon-db.vercel.app/api/ribbon" width="244" height="136" style="border-radius: 15px;" alt="Visit Nisal.lk" />
+    <img src="https://ribbon-db.vercel.app/api/ribbon" width="244" height="70" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
 </div>
 <br>
