@@ -69,15 +69,15 @@
 
 ---
 
-
+<div align="start">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-languages.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-
+</div>
 <br>
 <br>
 
-<div align="center">
+<div align="start">
   
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -98,15 +98,15 @@
 
 ---
 
-
+<div align="start">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-tools.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-
+</div>
 <br>
 <br>
 
-<div align="center">
+<div align="start">
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
@@ -118,15 +118,15 @@
 
 ---
 
-
+<div align="start">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-db.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-
+</div>
 <br>
 <br>
 
-<div align="center">
+<div align="start">
   
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -138,15 +138,15 @@
 
 ---
 
-
+<div align="start">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-design-five.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-
+</div>
 <br>
 <br>
 
-<div align="center">
+<div align="start">
   
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
