@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://github-card-orpin.vercel.app/api/githubCard" width="450" height="300" />
+  <img src="https://github-card-orpin.vercel.app/api/githubCard" width="200" height="60" />
 </div>
 
 
