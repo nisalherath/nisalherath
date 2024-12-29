@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="280" />
+  <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="330" height="230" />
 </div>
 
 
