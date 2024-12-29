@@ -69,11 +69,11 @@
 
 ---
 
-<div align="center">
+
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-languages.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-</div>
+
 <br>
 <br>
 
@@ -98,11 +98,11 @@
 
 ---
 
-<div align="center">
+
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-tools.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-</div>
+
 <br>
 <br>
 
@@ -118,11 +118,11 @@
 
 ---
 
-<div align="center">
+
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-db.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-</div>
+
 <br>
 <br>
 
@@ -138,11 +138,11 @@
 
 ---
 
-<div align="center">
+
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://ribbon-design-five.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-</div>
+
 <br>
 <br>
 
