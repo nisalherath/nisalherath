@@ -114,7 +114,7 @@
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-    <img src="https://browser-tool-ruby.vercel.app/api/browserCard" width="356" height="256" style="border-radius: 15px;" alt="Visit Nisal.lk" />
+    <img src="https://ribbon-tools.vercel.app/api/ribbon" width="244" height="90" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
 </div>
 <br>
