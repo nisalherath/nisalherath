@@ -58,13 +58,7 @@
 </p>
 </div>
 
----
 
-
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -100,14 +94,7 @@
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 </div>
 
----
 
-
-
-<br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -127,12 +114,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
----
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -153,12 +135,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 </div>
 
----
-
-<br>
-<br>
-<br>
-<br>
 
 ---
 
@@ -185,13 +161,6 @@
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 </div>
 
----
-
-
-<br>
-<br>
-<br>
-<br>
 
 ---
 
