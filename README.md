@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-    <img src="https://browser-card.vercel.app/api/browserCard" width="244" height="200" style="border-radius: 15px;" alt="Visit Nisal.lk" />
+    <img src="https://browser-card.vercel.app/api/browserCard" width="250" height="200" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
 <br>
 <br>
