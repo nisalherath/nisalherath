@@ -30,8 +30,7 @@
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
     <img src="https://browser-card.vercel.app/api/browserCard" width="250" height="206" style="border-radius: 15px;" alt="Visit Nisal.lk" />
   </a>
-<br>
-<br>
+
 <br>
 <br>
   <p align="center">
