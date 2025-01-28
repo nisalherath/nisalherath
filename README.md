@@ -168,9 +168,9 @@
 
 ---
 
-<h1 align="center"> Stats 💪🏻</h1>
+<h1 align="center"></h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=swift&hide_border=false" alt="GitHub Streak Stats" style="margin: 10px;"/>
+
 </div>
 
 ---
