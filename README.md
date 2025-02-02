@@ -174,9 +174,11 @@
 </div>
 
 ---
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=dark&hide_border=false)<br/>
 
-<br>
-<br>
+</div>
 <br>
 <br>
 
