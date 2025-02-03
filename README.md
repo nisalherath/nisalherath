@@ -1,11 +1,4 @@
 <hr>
-
-
-<div align="center">
-        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="300" />
-</div>
-
-<hr>
 <div align="center">
   <h1>Hello 👋 From 🌎 </h1>
 </div>
@@ -17,6 +10,12 @@
          <img src="https://github-card-orpin.vercel.app/api/githubCard" width="200" height="100" />
   </a>
 </div>
+
+<div align="center">
+        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="300" />
+</div>
+
+
 
 
 <br>
