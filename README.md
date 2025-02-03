@@ -2,9 +2,7 @@
 
 
 <div align="center">
-    <a href="https://codepen.io/Mooncaque/pen/GRVLzmM" target="_blank" rel="noopener noreferrer">
         <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="400" />
-    </a>
 </div>
 
 <hr>
