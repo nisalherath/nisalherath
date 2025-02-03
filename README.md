@@ -2,7 +2,7 @@
 
 
 <div align="center">
-        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="400" />
+        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="300" />
 </div>
 
 <hr>
