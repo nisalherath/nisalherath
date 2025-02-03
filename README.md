@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="300" />
+        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="350" />
 </div>
 
 
