@@ -40,7 +40,7 @@
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
   </a>
   <a href="https://nisal.lk">
-    <img src="https://nisallk.vercel.app/api/nisallk" alt="Portfolio" width="96" height="31" />
+        <img src="https://global-logo.vercel.app/api/GlobalLogo"  width="200" height="250" />
   </a>
   <a href="https://discord.com/users/790576125678977065">
     <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31" />
