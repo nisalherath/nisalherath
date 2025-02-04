@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="100" />
+         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="200" />
 </div>
 
 <div align="center">
