@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://linked-navy.vercel.app/api/LinkedIn" width="100" height="250" />
+        <img src="https://linked-navy.vercel.app/api/LinkedIn" width="120" height="250" />
   </a>
   <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://global-logo.vercel.app/api/GlobalLogo" width="100" height="250" />
