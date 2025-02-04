@@ -57,8 +57,10 @@
 </div>
 
 ---
+<div align="start">
+  <h1>Stats </h1>
+</div>
 <div align="center">
-  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=dark&hide_border=false)<br/>
 
 </div>
