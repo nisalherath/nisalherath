@@ -31,9 +31,8 @@
   <h1>My Socials </h1>
 </div>
 
-<div align="start">
-         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="250" />
-</div>
+
+
 
 <div align="center">
   <p align="center">
@@ -47,10 +46,10 @@
     <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31" />
   </a>
   <a href="https://facebook.com/mooncaque">
-    <img src="https://fb-iota-steel.vercel.app/api/facebook" alt="Facebook" width="96" height="31" />
+    <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="250" />
   </a>
   <a href="https://instagram.com/mooncaque">
-    <img src="https://insta-nu-two.vercel.app/api/insta" alt="Instagram" width="96" height="31" />
+    <img src="https://instalogo.vercel.app/api/InstaLogo" width="1000" height="250" />
   </a>
   <a href="https://x.com/artnisal">
     <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31" />
