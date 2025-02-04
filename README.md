@@ -25,12 +25,6 @@
     </a>
 </div>
 
-<div align="center">
-    <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-        <img src="https://nodelogo.vercel.app/api/NodeLogo" width="10000" height="250" />
-    </a>
-</div>
-
 
 <br>
 <br>
