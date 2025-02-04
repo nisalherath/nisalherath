@@ -1,5 +1,5 @@
 <hr>
-<div align="center">
+<div align="start">
   <h1>Hello 👋 From 🌎 </h1>
 </div>
 
