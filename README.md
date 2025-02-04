@@ -52,7 +52,7 @@
     <img src="https://instalogo.vercel.app/api/InstaLogo"  height="250" />
   </a>
   <a href="https://x.com/artnisal">
-    <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31" />
+        <img src="https://instalogo.vercel.app/api/XLogo"  height="250" />
   </a>
   <a href="https://codepen.io/Mooncaque">
     <img src="https://cdpen.vercel.app/api/codepen" alt="CodePen" width="96" height="31" />
