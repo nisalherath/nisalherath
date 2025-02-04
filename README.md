@@ -20,7 +20,7 @@
 <br>
 <br>
 <div align="center">
-  <h1>Hello My Stack </h1>
+  <h1> My Stack </h1>
 </div>
 <div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
