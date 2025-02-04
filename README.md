@@ -46,13 +46,13 @@
     <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31" />
   </a>
   <a href="https://facebook.com/mooncaque">
-    <img src="https://cociallogo.vercel.app/api/SocialLogo"  height="250" />
+    <img src="https://cociallogo.vercel.app/api/SocialLogo" width="200" height="250" />
   </a>
   <a href="https://instagram.com/mooncaque">
-    <img src="https://instalogo.vercel.app/api/InstaLogo"  height="250" />
+    <img src="https://instalogo.vercel.app/api/InstaLogo" width="200" height="250" />
   </a>
   <a href="https://x.com/artnisal">
-        <img src="https://xlogo.vercel.app/api/XLogo"  height="250" />
+        <img src="https://xlogo.vercel.app/api/XLogo"  width="200" height="250" />
   </a>
   <a href="https://codepen.io/Mooncaque">
     <img src="https://cdpen.vercel.app/api/codepen" alt="CodePen" width="96" height="31" />
