@@ -46,7 +46,7 @@
     <img src="https://discord-tau-peach.vercel.app/api/discord" alt="Discord" width="96" height="31" />
   </a>
   <a href="https://facebook.com/mooncaque">
-    <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="250" />
+    <img src="https://cociallogo.vercel.app/api/SocialLogo"  height="250" />
   </a>
   <a href="https://instagram.com/mooncaque">
     <img src="https://instalogo.vercel.app/api/InstaLogo" width="1000" height="250" />
