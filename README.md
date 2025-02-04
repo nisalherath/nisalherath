@@ -35,7 +35,6 @@
 
 
 <div align="center">
-  <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
   </a>
@@ -57,7 +56,6 @@
   <a href="https://codepen.io/Mooncaque">
     <img src="https://cdpen.vercel.app/api/codepen" alt="CodePen" width="96" height="31" />
   </a>
-</p>
 </div>
 
 ---
