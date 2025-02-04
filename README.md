@@ -25,8 +25,7 @@
 </div>
 
 <div align="center">
-<br>
-<br>
+  <h2>My Socials</h2>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
