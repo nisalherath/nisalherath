@@ -35,19 +35,19 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/nisal-herath">
+  <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
         <img src="https://linked-navy.vercel.app/api/LinkedIn"  width="200" height="250" />
   </a>
-  <a href="https://nisal.lk">
+  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://global-logo.vercel.app/api/GlobalLogo"  width="200" height="250" />
   </a>
-  <a href="https://facebook.com/mooncaque">
+  <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://cociallogo.vercel.app/api/SocialLogo" width="200" height="250" />
   </a>
-  <a href="https://instagram.com/mooncaque">
+  <a href="https://instagram.com/mooncaque" target="_blank" rel="noopener noreferrer">
     <img src="https://instalogo.vercel.app/api/InstaLogo" width="200" height="250" />
   </a>
-  <a href="https://x.com/artnisal">
+  <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer">
         <img src="https://xlogo.vercel.app/api/XLogo"  width="200" height="250" />
   </a>
 </div>
