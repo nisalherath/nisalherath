@@ -63,9 +63,7 @@
 <br>
 <br>
 
-# Email 📧 
-## nisal@nisal.lk
-
-<hr>
+` Email 📧 `
+### nisal@nisal.lk
 
 
