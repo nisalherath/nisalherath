@@ -12,11 +12,13 @@
 </div>
 
 <div align="center">
+      <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="350" />
+      </a>
 </div>
 
 <div align="center">
-    <a href="https://codepen.io/Mooncaque/pen/GRVLzmM" target="_blank" rel="noopener noreferrer">
+    <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://reactlogo.vercel.app/api/ReactLogo" width="10000" height="400" />
     </a>
 </div>
