@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/nisal-herath">
-    <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
+        <img src="https://linked-navy.vercel.app/api/LinkedIn"  width="200" height="250" />
   </a>
   <a href="https://nisal.lk">
         <img src="https://global-logo.vercel.app/api/GlobalLogo"  width="200" height="250" />
