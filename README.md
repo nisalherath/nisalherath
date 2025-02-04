@@ -34,8 +34,7 @@
 
 
 
-<div align="center">
-  <p align="center">
+<div align="start">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
         <img src="https://linked-navy.vercel.app/api/LinkedIn"   height="250" />
   </a>
@@ -51,7 +50,6 @@
   <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer">
         <img src="https://xlogo.vercel.app/api/XLogo"   height="250" />
   </a>
-  </p>
 </div>
 
 ---
