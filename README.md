@@ -21,8 +21,6 @@
 <br>
 <div align="center">
   <h1> My Stack </h1>
-</div>
-<div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://reactlogo.vercel.app/api/ReactLogo" width="10000" height="250" />
     </a>
