@@ -30,6 +30,11 @@
 <div align="start">
   <h1>My Socials </h1>
 </div>
+
+<div align="center">
+         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="100" />
+</div>
+
 <div align="center">
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
