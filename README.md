@@ -1,8 +1,6 @@
 <hr>
-<div align="start">
-  <h1>Hello 👋 From 🌎 </h1>
-</div>
 
+# ` Hello 👋 From 🌎 `
 
 
 <div align="center">
@@ -17,9 +15,9 @@
       </a>
 </div>
 
-<div align="start">
-  <h1>My Stack </h1>
-</div>
+
+
+# ` My Stack `
 
 <div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
@@ -27,10 +25,8 @@
     </a>
 </div>
 
-<div align="start">
-  <h1>My Socials </h1>
-</div>
 
+# ` My Socials `
 
 
 
@@ -52,9 +48,9 @@
   </a>
 </div>
 
-<div align="start">
-  <h1>Stats </h1>
-</div>
+
+# ` Stats `
+
 <div align="center">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=dark&hide_border=false)<br/>
