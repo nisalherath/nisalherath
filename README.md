@@ -52,8 +52,6 @@
   </a>
 </div>
 
-
----
 <div align="start">
   <h1>Stats </h1>
 </div>
