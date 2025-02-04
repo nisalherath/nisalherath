@@ -10,7 +10,9 @@
          <img src="https://github-card-orpin.vercel.app/api/githubCard" width="200" height="100" />
   </a>
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
       <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="350" />
