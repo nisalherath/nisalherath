@@ -34,7 +34,7 @@
 
 
 
-<div align="start">
+<div align="center">
   <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer">
         <img src="https://linked-navy.vercel.app/api/LinkedIn"   width="100" height="250" />
   </a>
