@@ -31,8 +31,8 @@
   <h1>My Socials </h1>
 </div>
 
-<div align="center">
-         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="200" />
+<div align="start">
+         <img src="https://cociallogo.vercel.app/api/SocialLogo" width="1000" height="250" />
 </div>
 
 <div align="center">
