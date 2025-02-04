@@ -18,7 +18,7 @@
 
 
 # ` My Stack ` 
-### ***(MERN)***
+### ` MERN `
 
 <div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
