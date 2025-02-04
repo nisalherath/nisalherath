@@ -17,15 +17,20 @@
       </a>
 </div>
 
+<div align="start">
+  <h1>My Stack </h1>
+</div>
+
 <div align="center">
-    <h2>My Stack</h2>
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
         <img src="https://reactlogo.vercel.app/api/ReactLogo" width="10000" height="200" />
     </a>
 </div>
 
+<div align="start">
+  <h1>My Socials </h1>
+</div>
 <div align="center">
-  <h2>My Socials</h2>
   <p align="center">
   <a href="https://linkedin.com/in/nisal-herath">
     <img src="https://linkedin-drab-mu.vercel.app/api/linkedin" alt="LinkedIn" width="96" height="31" />
