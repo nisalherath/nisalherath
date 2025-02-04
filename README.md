@@ -49,7 +49,7 @@
     <img src="https://cociallogo.vercel.app/api/SocialLogo"  height="250" />
   </a>
   <a href="https://instagram.com/mooncaque">
-    <img src="https://instalogo.vercel.app/api/InstaLogo" width="1000" height="250" />
+    <img src="https://instalogo.vercel.app/api/InstaLogo"  height="250" />
   </a>
   <a href="https://x.com/artnisal">
     <img src="https://twitter-ecru-seven.vercel.app/api/twitter" alt="X" width="96" height="31" />
