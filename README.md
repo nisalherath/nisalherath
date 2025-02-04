@@ -19,7 +19,7 @@
 
 <div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-        <img src="https://reactlogo.vercel.app/api/ReactLogo" width="10000" height="100" />
+        <img src="https://reactlogo.vercel.app/api/ReactLogo" width="10000" height="150" />
     </a>
 </div>
 
