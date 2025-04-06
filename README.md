@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-         <img src="https://spootify-zeta.vercel.app/api/Spootify" width="200" height="120" />
+         <img src="https://spootify-zeta.vercel.app/api/Spootify" width="220" height="120" />
 </div>
 
 <hr>
