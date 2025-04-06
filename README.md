@@ -8,7 +8,6 @@
 
 # ` Hello 👋 From 🌎 `
 
-<hr>
 
   
 <div align="center">
