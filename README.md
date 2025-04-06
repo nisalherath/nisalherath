@@ -5,7 +5,7 @@
 </div>
 <div align="center">
          <a href="https://open.spotify.com/playlist/2V908jzuB7qzfYLbJz6EqN" target="_blank" rel="noopener noreferrer">
-            <img src="https://spootify-zeta.vercel.app/api/Spootify" width="300" height="150" />
+            <img src="https://spootify-zeta.vercel.app/api/Spootify" width="310" height="150" />
          </a>
 </div>
 
