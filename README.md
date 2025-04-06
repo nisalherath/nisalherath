@@ -5,7 +5,7 @@
 <hr>
 <div align="center">
   <a href="https://codepen.io/Mooncaque/pen/xxedWOV" target="_blank" rel="noopener noreferrer">
-         <img src="https://spootify-zeta.vercel.app/api/Spootify" width="1000" height="120" />
+         <img src="https://spootify-zeta.vercel.app/api/Spootify" width="220" height="120" />
   </a>
 </div>
   
