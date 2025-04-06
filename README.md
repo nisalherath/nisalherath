@@ -7,8 +7,6 @@
          <a href="https://open.spotify.com/playlist/2V908jzuB7qzfYLbJz6EqN" target="_blank" rel="noopener noreferrer">
             <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=2V908jzuB7qzfYLbJz6EqN&userName=Nisal" width="310" height="150" />
          </a>
-
-####  You can custommize this url to get your ownl Playlist & Name to show here ` https://spootify-zeta.vercel.app/api/Spootify?playlistId=&userName= `
 </div>
 
 <hr>
