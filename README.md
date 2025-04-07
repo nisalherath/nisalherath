@@ -33,7 +33,7 @@
 
 <div align="center">
     <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-        <img src="https://reactlogo.vercel.app/api/ReactLogo" />
+        <img src="https://reactlogo.vercel.app/api/ReactLogo" width="1000" />
     </a>
 </div>
 
