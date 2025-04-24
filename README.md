@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-         <a href="https://open.spotify.com/playlist/2V908jzuB7qzfYLbJz6EqN" target="_blank" rel="noopener noreferrer">
+         <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=2V908jzuB7qzfYLbJz6EqN&userName=Nisal&style=bar&color=000" />
          </a>
 </div>
