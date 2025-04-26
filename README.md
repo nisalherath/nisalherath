@@ -5,7 +5,7 @@
 </div>
 <div align="center">
          <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=2V908jzuB7qzfYLbJz6EqN&userName=Nisal&style=bar&color=000" width="500" />
+            <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=2V908jzuB7qzfYLbJz6EqN&userName=Nisal&style=bar&color=000" width="1000" height="350" />
          </a>
 </div>
 
