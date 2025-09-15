@@ -21,21 +21,6 @@
   </a>
 </div>
 
-<div align="center">
-      <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-        <img src="https://nisalintro.vercel.app/api/MyName" width="1000" height="350" />
-      </a>
-</div>
-
-
-
-# ` My Stack ` >  `  MERN  `
-
-<div align="center">
-    <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer">
-        <img src="https://reactlogo.vercel.app/api/ReactLogo" width="1000" />
-    </a>
-</div>
 
 
 # ` My Socials `
