@@ -45,14 +45,6 @@
   </a>
 </div>
 
-
-# ` Stats `
-
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nisalherath&theme=dark&hide_border=false)
-
-</div>
 <br>
 <br>
 
