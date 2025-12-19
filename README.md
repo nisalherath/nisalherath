@@ -5,7 +5,7 @@
 </div>
 <div align="center">
          <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="220" height="280" />
+            <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="230" height="280" />
          </a>
 </div>
 
