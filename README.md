@@ -1,18 +1,5 @@
 <div align="center">
          
-##  ` Happy Holidays!`
-
-</div>
-<div align="center">
-         <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://merryxmas-fawn.vercel.app/api/christmasCard" width="230" height="280" />
-         </a>
-</div>
-
-<hr>
-
-<div align="center">
-         
 ##  ` Hmmm `
 
 </div>
@@ -23,40 +10,6 @@
 </div>
 
 <hr>
-
-# ` Hello 👋 From 🌎 `
-
-
-  
-<div align="center">
-  <a href="https://codepen.io/Mooncaque/pen/xxedWOV" target="_blank" rel="noopener noreferrer">
-         <img src="https://github-card-orpin.vercel.app/api/githubCard" width="220" height="120" />
-  </a>
-</div>
-
-
-
-# ` My Socials `
-
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/nisal-herath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://linked-navy.vercel.app/api/LinkedIn" width="120" height="250" />
-  </a>
-  <a href="https://nisal.lk" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://global-logo.vercel.app/api/GlobalLogo" width="120" height="250" />
-  </a>
-  <a href="https://facebook.com/mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cociallogo.vercel.app/api/SocialLogo" width="120" height="250" />
-  </a>
-  <a href="https://instagram.com/mooncaque" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://instalogo.vercel.app/api/InstaLogo" width="120" height="250" />
-  </a>
-  <a href="https://x.com/artnisal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://xlogo.vercel.app/api/XLogo" width="120" height="250" />
-  </a>
-</div>
 
 <br>
 <br>
