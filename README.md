@@ -13,12 +13,12 @@
 
 <div align="center">
          
-##  ` Jamming To 🎧`
+##  ` Hmmm `
 
 </div>
 <div align="center">
          <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=6HKURqDfaD5TmdNAy4TcBm&userName=Nisal&style=bar&color=000" width="500" height="220" />
+            <img src="https://widgets.githobby.com/window?titleBar=hola&title=git+commands&desc=git+add+.%0Agit+commit+-m+%22Got+a+Job%22%0Agit+push+origin+main&theme=light" />
          </a>
 </div>
 
