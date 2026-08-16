@@ -25,7 +25,7 @@
 </div>
 <div align="center">
          <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://widgets.githobby.com/window?titleBar=hola&title=git+commands&desc=git+add+.%0Agit+commit+-m+%22Got+a+Job%22%0Agit+push+origin+main&theme=dark&anim=type" />
+            <img src="https://githobby.com/api/widgets/explorer?titleBar=GitHub&title=git+Commands&desc=git+add+.+%3C%2Fbr%3E+git+commit+-m+%22Unemployed%22+%3C%2Fbr%3E+git+push+origin+main&sidebar1=Status&sidebar2=Recents&sidebar3=nisal.lk&activeSidebar=1&anim=type&animSpeed=slow&v=2" />
          </a>
 </div>
 
