@@ -1,12 +1,12 @@
 <div align="center">
          
-##  ` Boppin to `
+##  ` Now Watching `
 
 </div>
 
 <div align="center">
          <a href="https://githobby.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://githobby.com/api/widgets/youtube-music?playlist=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLugb667IhEeWREfZJANxKQkqYeHek4UM6&amp;style=bar&amp;color=000000" />
+            <img src="[https://githobby.com/api/widgets/youtube-music?playlist=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLugb667IhEeWREfZJANxKQkqYeHek4UM6&amp;style=bar&amp;color=000000](https://githobby.com/api/widgets/youtube-music?playlist=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3BOzDlV7Dig%26list%3DPL4niExRCQ4nJEPQ8WxaEjYBNLIYpOFAlO&style=bar&color=000000)" />
          </a>
 </div>
 
